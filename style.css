@@ -114,7 +114,7 @@ a:hover, a:active{
     -webkit-border-radius: 5px;
 }
 
-.pageFooter {
+.pageFooter p {
     width: 100%;
     margin: 10px auto;
     color: #ffffff;
